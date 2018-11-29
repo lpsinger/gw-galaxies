@@ -1,0 +1,4 @@
+astropy
+healpy
+matplotlib
+numpy
