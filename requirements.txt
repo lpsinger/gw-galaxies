@@ -1,4 +1,7 @@
 astropy
+astroquery
 healpy
+ligo.skymap
 matplotlib
 numpy
+scipy
